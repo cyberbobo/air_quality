@@ -2,6 +2,7 @@
 Station de mesure de la qualité de l'air (pollution)</br>
 
 Ressources Web :</br>
+https://www.esrl.noaa.gov/gmd/ccgg/trends/global.html Valeurs de référence pour le taux de CO2 dans l'air</br>
 https://www.epa.gov/criteria-air-pollutants (US gov; quid de l'Europe?)</br>
 http://arthur.lutz.im/blog/2016/02/surveiller-la-qualite-de-lair-avec-du-open-hardware-et-du-logiciel-libre/</br>
 https://luftdaten.info/fr/montage-detecteur-de-particules-fines/ (projet allemand de mesures des PM2.5 + cartographie)</br>
