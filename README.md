@@ -10,3 +10,4 @@ https://openhomeautomation.net/arduino-battery (à étudier plus tard pour l'aut
 http://www.dreamgreenhouse.com/projects/2014/air/index.php</br>
 https://projetsdiy.fr/capteurs-mq-detecter-gaz-polluants-fumees/ => Récap technique sur la gamme de capteurs MQ <b>Attention</b> cet article signale que le MQ-135 doit être alimenté en permanence (inadapté à un appareil nomade)</br>
 https://aqicn.org/sensor/sds011/fr/ Rétro-ingénierie du capteur SDS011 (PM)<br>
+https://www.airparif.asso.fr/reglementation/recommandations-oms Recommandations OMS <br>
