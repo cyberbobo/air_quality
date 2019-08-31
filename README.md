@@ -13,5 +13,11 @@ https://projetsdiy.fr/capteurs-mq-detecter-gaz-polluants-fumees/ => Récap techn
 https://aqicn.org/sensor/sds011/fr/ Rétro-ingénierie du capteur SDS011 (PM)<br>
 https://www.airparif.asso.fr/reglementation/recommandations-oms Recommandations OMS <br>
 
+Spécial MQ-135 :</br>
+La datasheet est naze, le capteur a l'inconvénient d'être non-sélectif sur les gaz testés.</br>
+https://hackaday.io/project/3475-sniffing-trinket/log/12363-mq135-arduino-libraryLes commentaires de l'auteur de la librairie pour le MQ-135</br>
+http://davidegironi.blogspot.com/2014/01/cheap-co2-meter-using-mq135-sensor-with.html#.VJXAgsC3b Blog de Davide Gironi qui a utilisé le MQ-135 comme capteur de CO2, avec une formule en ppm = a*(Rs/Ro)^b</br>
+http://davidegironi.blogspot.com/2017/05/mq-gas-sensor-correlation-function.html Le détail de cette évaluation des paramètres du capteur : l'auteur utilise un outil pour extraire les données du graphe de la datasheet, avec ces valeurs opère une régression non-linéaire (avec un script R mais c'est faisable avec Python, Matlab...) et en retire les coefs a et b.</br>
+
 Ensuite, que faire?<br>
 https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau
