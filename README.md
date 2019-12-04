@@ -12,6 +12,7 @@ http://www.dreamgreenhouse.com/projects/2014/air/index.php</br>
 https://projetsdiy.fr/capteurs-mq-detecter-gaz-polluants-fumees/ => Récap technique sur la gamme de capteurs MQ <b>Attention</b> cet article signale que le MQ-135 doit être alimenté en permanence (inadapté à un appareil nomade)</br>
 https://aqicn.org/sensor/sds011/fr/ Rétro-ingénierie du capteur SDS011 (PM)<br>
 https://www.airparif.asso.fr/reglementation/recommandations-oms Recommandations OMS <br>
+https://makeradvisor.com/esp32-vs-esp8266/ ESP32 vs ESP8266 <br>
 
 Spécial MQ-135 :</br>
 La datasheet est naze, le capteur a l'inconvénient d'être non-sélectif sur les gaz testés.</br>
