@@ -16,6 +16,9 @@ MCU :<br>
 https://makeradvisor.com/esp32-vs-esp8266/ ESP32 vs ESP8266 <br>
 https://www.fais-le-toi-meme.fr/fr/electronique/tutoriel/esp8266-arduinoota-mise-a-jour-logiciel-esp8266-wifi Mise à jour et debug OTA<br>
 
+Librairie CoAP :<br>
+https://github.com/hirotakaster/CoAP-simple-library
+
 Spécial MQ-135 :</br>
 La datasheet est naze, le capteur a l'inconvénient d'être non-sélectif sur les gaz testés.</br>
 https://projetsdiy.fr/capteurs-mq-detecter-gaz-polluants-fumees/ => Récap technique sur la gamme de capteurs MQ <b>Attention</b> cet article signale que le MQ-135 doit être alimenté en permanence (inadapté à un appareil nomade)</br>
