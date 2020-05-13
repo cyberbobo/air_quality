@@ -30,7 +30,8 @@ Alternative / Complément au MQ-135 :<br>
 https://www.mouser.fr/ProductDetail/Amphenol-SGX-Sensortech/MICS-6814?qs=sGAEpiMZZMtWSrBd5SaE4KIbT1yLGXllBQqf0A%2FWr%2F4pt%2FJ%252BcbCruw%3D%3D
 Le site Mouser propose de nombreux capteurs pour la qualité de l'air (appliquer les filtres).
 MICS-6814 : 3 sorties indépendantes pour mesurer CO, NO2 et NH3.
-Il faudrait le trouver sous forme de shield. Il est aussi intégré dans le capteur de gaz "grove" mais c'est deux fois le prix...
+Il faudrait le trouver sous forme de shield. Il est aussi intégré dans le capteur de gaz "grove" mais c'est deux fois le prix...<br>
+Mais, méfiance : https://github.com/empierre/arduino/issues/15<br>
 
 Ensuite, que faire?<br>
 https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau
