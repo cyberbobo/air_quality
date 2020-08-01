@@ -38,5 +38,7 @@ En complément :<br>
 seeed a fait une V2 de son shield, avec comme capteurs GM-702B (CO), GM-102B (NO2), GM-302B (C2H5OH éthanol) et GM-502B (COV).<br>
 Si jamais MICS-6814 ne fait pas l'affaire, ou pour compléter avec des mesures de COV, étudier ces pistes.<br>
 
+Pour mesure conso électrique : INA219<br>
+
 Ensuite, que faire?<br>
 https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau
