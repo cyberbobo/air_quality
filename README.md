@@ -41,4 +41,8 @@ Si jamais MICS-6814 ne fait pas l'affaire, ou pour compléter avec des mesures d
 Pour mesure conso électrique : INA219<br>
 
 Ensuite, que faire?<br>
-https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau
+https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau<br>
+Purification par ionisation :<br>
+https://en.wikipedia.org/wiki/Air_ioniser<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213340/ A lire à l'occasion<br>
+https://hackaday.io/project/176220-diy-cockroft-walton-voltage-multiplayer-100000v : Montage (prudence!) : conversion AC basse-tension vers DC haute-tension
