@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP8266)(type Legacy)(uri /home/bobo/dev/air_quality/kicad/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
+  (lib (name Sensor_Gas)(type Legacy)(uri ${KIPRJMOD}/Sensor_Gas.lib)(options "")(descr ""))
+)
