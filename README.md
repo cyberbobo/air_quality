@@ -12,6 +12,7 @@ http://www.dreamgreenhouse.com/projects/2014/air/index.php</br>
 https://aqicn.org/sensor/sds011/fr/ Rétro-ingénierie du capteur SDS011 (PM)<br>
 https://www.airparif.asso.fr/reglementation/recommandations-oms Recommandations OMS <br>
 https://plumelabs.com/en/flow/ Concurrence<br>
+https://www.franceculture.fr/emissions/la-methode-scientifique/il-y-a-du-plastique-dans-l-air ITW labos toulousains qui font des mesures<br>
 
 MCU :<br>
 https://makeradvisor.com/esp32-vs-esp8266/ ESP32 vs ESP8266 <br>
@@ -34,5 +35,15 @@ MICS-6814 : 3 sorties indépendantes pour mesurer CO, NO2 et NH3.
 Il faudrait le trouver sous forme de shield. Il est aussi intégré dans le capteur de gaz "grove" mais c'est deux fois le prix...<br>
 Mais, méfiance : https://github.com/empierre/arduino/issues/15<br>
 
+En complément :<br>
+seeed a fait une V2 de son shield, avec comme capteurs GM-702B (CO), GM-102B (NO2), GM-302B (C2H5OH éthanol) et GM-502B (COV).<br>
+Si jamais MICS-6814 ne fait pas l'affaire, ou pour compléter avec des mesures de COV, étudier ces pistes.<br>
+
+Pour mesure conso électrique : INA219<br>
+
 Ensuite, que faire?<br>
-https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau
+https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-31-mai-2019 à 14:45 : oxydes de graphène (nano-particules) pour capter les polluants dans l'air ou l'eau<br>
+Purification par ionisation :<br>
+https://en.wikipedia.org/wiki/Air_ioniser<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213340/ A lire à l'occasion<br>
+https://hackaday.io/project/176220-diy-cockroft-walton-voltage-multiplayer-100000v : Montage (prudence!) : conversion AC basse-tension vers DC haute-tension
